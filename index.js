@@ -1,6 +1,6 @@
 const a=()=>{
-    return 5
+    return "5"
 }
 const b=()=>{
-    return "5"
+    alert("aaa")
 }
